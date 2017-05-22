@@ -9,7 +9,7 @@ int main(){
     while(i<=n){
         while(k<=i){
             x++;
-            printf("%d ",x);
+            printf("%02d ",x);
             k++;
 
         }
