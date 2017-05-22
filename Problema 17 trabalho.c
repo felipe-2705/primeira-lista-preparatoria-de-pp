@@ -7,8 +7,11 @@ int main(){
 
     int epidemia = 0;
 
-    printf("Digite a data atual: "); scanf("%d %d %d",&dia1,&mes1,&ano1);
-    printf("Digite a data do inicio da epidemia: "); scanf("%d %d %d",&dia2,&mes2,&ano2);
+    printf("Digite a data atual: ");
+     scanf("%d%*c %d%*c %d",&dia1,&mes1,&ano1);
+
+    printf("Digite a data do inicio da epidemia: ");
+    scanf("%d%*c %d%*c %d\n",&dia2,&mes2,&ano2);
 
     i = ano2;
     while(i<=ano1){
