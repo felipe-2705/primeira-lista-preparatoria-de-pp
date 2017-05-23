@@ -20,5 +20,5 @@ n=n/2;
 
 
  }while(n>1);
- if(n==1)printf("1");//fazemos assim pois n pode ser zero .
+ if(n==1)printf("1");//fazemos assim pois n se for um fica infinitamente no laço , dessa forma tiramos o 1 fora do laço e o adicionamos depois.
 return 0 ;}
