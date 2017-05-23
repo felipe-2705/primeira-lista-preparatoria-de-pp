@@ -1,3 +1,4 @@
+//exercicios preparatorios de pp, exercicio p18
 #include<stdlib.h>
 #include<stdio.h>
 
