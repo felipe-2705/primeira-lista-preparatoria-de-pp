@@ -1,3 +1,4 @@
+// lista preparatoria ,exercio p17
 #include<stdlib.h>
 #include<stdio.h>
 
