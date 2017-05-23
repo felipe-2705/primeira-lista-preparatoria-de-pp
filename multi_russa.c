@@ -1,3 +1,4 @@
+//lista preparatoria ,exercicio p5
 #include <stdio.h>
 #include <stdlib.h>
 //faz uma multiplicaçao ao estilo russo , proposto no exercicio p5 da lista .

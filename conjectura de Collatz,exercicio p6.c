@@ -1,3 +1,4 @@
+//lista preparatoria de pp, exercicio p6
 #include <stdio.h>
 
 int main (){
